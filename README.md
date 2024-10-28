@@ -1,8 +1,8 @@
 # Current-Emerging-Trends
 
-# Project Overview: Intelligent Agent for Pathfinding
+## Project Overview: Intelligent Agent for Pathfinding
 
-## Work Done on This Project
+## Work Done on This Project - # I did NOT Write any of the files I contributed to the completion of the jupiter notebook file
 
 In this project, I focused on developing an intelligent agent using deep Q-learning to navigate a maze and efficiently find the treasure.
 
